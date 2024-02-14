@@ -1,5 +1,8 @@
+<<<<<<< Updated upstream
 # !/usr/bin/env bash
 # exit on error
+=======
+>>>>>>> Stashed changes
 set -o errexit
 
 bundle install
